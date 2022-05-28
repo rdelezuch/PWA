@@ -3,7 +3,7 @@
     "background_color": "#35f6f3",
     "display": "browser",
     "scope": "/",
-    "start_url" : "/https://rdelezuch.github.io/PWA/",
+    "start_url" : "//PWA/",
     "name": "Blok Roberta o mleku",
     "short_name": "MilkAPP",
     "description": "Najlepszy blok o mleku",
